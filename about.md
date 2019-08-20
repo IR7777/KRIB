@@ -59,6 +59,6 @@ if you'd like to contribute something to here or just want to shoot the shit in 
 
 
 
-<center> <p class="extra">
+<sub><sub><center> <p class="extra">
         <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
 
