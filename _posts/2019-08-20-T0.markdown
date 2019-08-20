@@ -33,4 +33,6 @@ today is another day, not as fun as yesterday, but monumental in its own right. 
     
 <sub><sub>
 
+
+<div id="dot">. . . .</div>
  
