@@ -60,7 +60,7 @@ if you'd like to contribute something to here or just want to shoot the shit in 
 
 
 
-<p style="text-align: center;">Centered text</p>
-<sub><sup><sub><sup><p class="extra">
-        <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a></sup></sub></sup></sub>
+<p style="text-align: center;"><sub><sup><sub><sup><p class="extra">
+        <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a></sup></sub></sup></sub></p>
+
 
