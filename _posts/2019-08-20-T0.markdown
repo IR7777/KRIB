@@ -1,0 +1,19 @@
+---
+title: "T0"
+layout: post
+date: 2019-08-20 12:01
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- life
+star: false
+category: blog
+author: orest
+description: it had to start somewhere
+---
+
+### T0
+
+willem turned 5 yesterday.  he climbed into bed with us in the morning, after waking up, and all i could think of is how big he is.  i can't believe it's been 5 years, but michelle and i did remeniss about the morning of his birth, how i was all dressed and ready to go to work when she said we needed to go to the hospital.  i replied something like "why don't we see how this goes, i'll go into work for a little and you can call me later", to which she replied something like **"we need to go right now!"**
+
+ 
