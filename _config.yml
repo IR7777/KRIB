@@ -16,8 +16,8 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://ir7777.github.io
-# your url: http://USERNAME.github.io
+url: https://ir7777.github.io/KRIB/
+# your url: http://USERNAME.github.io  -- THIS SHOULD BE WHERE YOUR SITE IS HOSTED!!!
 
 permalink: /:title/
 
