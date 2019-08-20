@@ -22,7 +22,7 @@ in the evening we went to willem's [requested restaurant](https://redcowmn.com/m
 
 today is another day, not as fun as yesterday, but monumental in its own right.  after about 3 days of messing around with github i finally figured out all of the kinks, *at least for now*, about how to set up this website and a blog attached to it.  so here we go, **Welcome to T0**[^2], the start of something new.
 
-* * *
+<div class="breaker"></div>
 
 
 <sub><sub>
