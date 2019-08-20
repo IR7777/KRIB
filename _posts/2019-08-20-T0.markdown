@@ -18,12 +18,12 @@ willem turned 5 yesterday.  he climbed into bed with us in the morning, after wa
 
 on this day we both went to work.  my mom, who was visiting for the long weekend, stayed home with both kids.  she had her old co-worker come over and hang out with her and also the neighboors, who's a stay-at-home dad, took in willem to play with his girls while victoria napped.  reflecting back on it, this is not the life i envisioned 20 years ago, the goal was swindle a bank out of a fake mortgage and move to fuji, drink cheap beer and smoke weed every day.
 
-willem requested that we go to one of [his favorite restaurants](https://redcowmn.com/mpls-50th-street/)[^1]. we've been there enough that he knows that he loves their mac&cheese and it's really close to his daycare which he thinks is the coolest thing ever.  victoria doens't mind it either, she also gets mac&cheese.  we had my mom in town and michelle's parents also met up with us, it was a good time and there being a happy hour definitely helped.  we had food, had dessert, sang 'happy birthday' and then went over to playground.  
+willem requested that we go to one of [his favorite restaurants](https://redcowmn.com/mpls-50th-street/)[1]. we've been there enough that he knows that he loves their mac&cheese and it's really close to his daycare which he thinks is the coolest thing ever.  victoria doens't mind it either, she also gets mac&cheese.  we had my mom in town and michelle's parents also met up with us, it was a good time and there being a happy hour definitely helped.  we had food, had dessert, sang 'happy birthday' and then went over to playground.  
 
 
 
 <sub><sub>
-[^1]: i'm not really spamming you with this restaurant, and although the kid loves it i think there are much better burger choices around in minneapolis. i'm also not really found of edina and generally do not want to promote anything to do with it.  but, what i am doing is learning markdown and this gives me an opportunity to practice footnotes and they do have a happy hour :).
+[1]: i'm not really spamming you with this restaurant, and although the kid loves it i think there are much better burger choices around in minneapolis. i'm also not really found of edina and generally do not want to promote anything to do with it.  but, what i am doing is learning markdown and this gives me an opportunity to practice footnotes and they do have a happy hour :).
     
     
 <sub><sub>
