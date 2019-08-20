@@ -47,3 +47,20 @@ some things that *are* of immediate interest:
 
 if you'd like to contribute something to here or just want to shoot the shit in general you can [send me an email](mailto:iridium7777@mac.com).
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class="extra">
+        <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a> by <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
