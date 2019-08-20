@@ -4,43 +4,47 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+## Welcome KRIB.ORG
 
-<h2>Skills</h2>
+### KRIB.ORG
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+krib.org
 
-<h2>Projects</h2>
+krib.or
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+krib.o
+
+krib.
+
+krib
+
+kri
+
+kr
+
+k
+
+
+
+
+### We're still here
+can you believe it's been **20 years**?  it took me this long to figure out that i can run a free website on [GitHub](https://github.com) so here we are. as part of this new website, here are some things that are no longer of *immediate* interest:
+
+- taking over the world
+- keying **K** into furniture, walls, doors, etc. 
+- we're no longer vandalizing pledge paddles, simply because there are none of those around.
+
+some things that *are* of immediate interest:
+
+- figure out GitHub
+- figure out how to write in [Markdown] (https://daringfireball.net/projects/markdown/)
+- start writing more
+-- about things that i care about today
+- learn more about technology and some new skills
+- learn how to publish with my iPad
+- revive some of the stuff that was oposted on original krib.org website all those years ago
+- *eventually* figure out how to take over the world.
+
+if you'd like to contribute something to here or just want to shoot the shit in general you can [send me an email](mailto:iridium7777@mac.com).
+
